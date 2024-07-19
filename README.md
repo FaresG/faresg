@@ -6,7 +6,7 @@
   Hi, I'm Fares Gdoura
 </h1>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Font&weight=500&duration=1000&pause=2000&color=C9D1D9&background=FF6FE200&width=435&lines=Full-Stack+Web+Developer;Certified+Laravel+Developer;Certified+Vue.js+Developer;Software+Engineer;Business+Owner;Freelancer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Font&weight=500&duration=2000&pause=2000&color=C9D1D9&background=FF6FE200&width=435&lines=Full-Stack+Web+Developer;Certified+Laravel+Developer;Certified+Vue.js+Developer;Software+Engineer;Business+Owner;Freelancer" alt="Typing SVG" />
 </a>
 
 <h2>My Tech Stack</h2>
