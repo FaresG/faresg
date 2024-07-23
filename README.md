@@ -43,16 +43,7 @@
 ![HTMX](https://img.shields.io/badge/htmx-%23E34F26.svg?style=for-the-badge&logo=htmx&logoColor=white)
 
 <h2>My Stats</h2>
-<div>
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=faresg&theme=default" alt="GitHub Streak" />
-    </a>
-</div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresg&hide_progress=true" alt="Top Langs" />
-</div>
-<p>
-<a href="https://data.typeracer.com/pit/profile?user=fares01&ref=badge" target="_top">
-  <img src="https://data.typeracer.com/misc/badge?user=fares01" border="0" alt="TypeRacer.com scorecard for user fares01"/>
-</a>
-</p>
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+
+![Fares' GitHub stats](https://github-readme-stats.vercel.app/api?username=faresg&show_icons=true&rank_icon=github&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=faresg&theme=tokyonight)](https://git.io/streak-stats)
