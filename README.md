@@ -45,4 +45,5 @@
 <h2>My Stats</h2>
 
 ![Fares' GitHub stats](https://github-readme-stats.vercel.app/api?username=faresg&show_icons=true&rank_icon=github&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=faresg&theme=tokyonight)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faresg&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=faresg&theme=tokyonight)
