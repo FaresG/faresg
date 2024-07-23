@@ -43,7 +43,5 @@
 ![HTMX](https://img.shields.io/badge/htmx-%23E34F26.svg?style=for-the-badge&logo=htmx&logoColor=white)
 
 <h2>My Stats</h2>
-![Fares' Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
-
 ![Fares' GitHub stats](https://github-readme-stats.vercel.app/api?username=faresg&show_icons=true&rank_icon=github&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=faresg&theme=tokyonight)](https://git.io/streak-stats)
